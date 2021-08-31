@@ -1,4 +1,4 @@
-### Hi there, I'm Emmanuel Arias- Mr.BigMama 👋🏼
+### Hi there, I'm Emmanuel Arias - Mr.BigMama 👋🏼
 
 ## I'm Engineering student, begginer developer!
 - 🔭 I’m currently working on a [Code Compiler].
@@ -8,9 +8,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Mr. BigMama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"
+[<img align="left" alt="Mr.BigMama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"
 />][Instagram]
-[<img align="left" alt="Mr. BigMama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg"
+[<img align="left" alt="Mr.BigMama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg"
 />][Twitter]
 Youtube channel and Linkedin profile in progress...
 <br />
