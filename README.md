@@ -9,7 +9,10 @@
 
 ## Connect with me:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[Instagram].svg" /> [Instagram]
+<img align="left" alt="Mr. BigMama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"
+/> [Instagram]
+<img align="left" alt="Mr. BigMama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg"
+/> [Instagram]
 
 <br />
 <br />
