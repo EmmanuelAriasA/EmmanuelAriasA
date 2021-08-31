@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Emmanuel - Mr.BigMama 👋🏼
+
+## I'm Engineering student, begginer developer!
+- 🔭 I’m currently working on a [Code Compiler].
+- 🌱 I’m currently learning [front-end basics].
+- 🥅 2021 Goals: Learn front-end dev and improve my dev skills.
 
 <!--
 **ManeAriasA/ManeAriasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
