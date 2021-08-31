@@ -1,21 +1,17 @@
-### Hi there, I'm Emmanuel - Mr.BigMama 👋🏼
+### Hi there, I'm Emmanuel Arias- Mr.BigMama 👋🏼
 
 ## I'm Engineering student, begginer developer!
 - 🔭 I’m currently working on a [Code Compiler].
 - 🌱 I’m currently learning [front-end basics].
-- 🥅 2021 Goals: Learn front-end dev and improve my dev skills.
+- 🥅 2021 Goals: Learn front-end dev, improve my dev skills and my english.
+- ⚡ Fun fact: Learn about mechanical keyboards, and play videogames
 
-<!--
-**ManeAriasA/ManeAriasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+[Twitter]: https://twitter.com/elZAFHER
+[Instagram]: https://www.instagram.com/mane_ariasa
+
