@@ -16,6 +16,6 @@ Youtube channel and Linkedin profile in progress...
 <br />
 <br />
 
-[Twitter]: https://twitter.com/elZAFHER
-[Instagram]: https://www.instagram.com/mane_ariasa
+[Twitter]: https://twitter.com/El_BigMama
+[Instagram]: https://www.instagram.com/mr_bigmama
 
