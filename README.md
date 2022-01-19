@@ -1,9 +1,9 @@
 ### Hi there, I'm Emmanuel Arias - Mr.BigMama 👋🏼
 
 ## I'm Engineering student, begginer developer!
-- 🔭 I’m currently working on a Code Compiler.
-- 🌱 I’m currently learning front-end basics 🥴.
-- 🥅 2022 Goals: Learn security, improve my dev skills and my english.
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning security 🥴.
+- 🥅 2022 Goals: learn front-end, improve my dev skills and my english.
 - ⚡ Fun fact: Learn about mechanical keyboards, and play videogames
 
 ## Connect with me:
